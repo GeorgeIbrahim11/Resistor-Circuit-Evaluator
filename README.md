@@ -1,3 +1,8 @@
+Resistor-Circuit-Evaluator
+
+
+
+
 Input : S 1 2 3 23 3.4 e 
 Output: The total resistance = 32.4 
 
